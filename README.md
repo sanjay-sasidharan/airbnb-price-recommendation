@@ -1,1 +1,1 @@
-# eb-capstone-airbnb
+# airbnb price recommendation
